@@ -6,10 +6,10 @@ NIM  : 311910123
 
 ### Menjawab Tugas Praktikum 3
 1 . Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
-![ssA](https://user-images.githubusercontent.com/81453793/114734867-d296e580-9d6e-11eb-8fea-c0b5f74edc3f.jpeg)
-![ssB](https://user-images.githubusercontent.com/81453793/114734889-daef2080-9d6e-11eb-9a42-80b2a4763770.jpeg)
-![ssC](https://user-images.githubusercontent.com/81453793/114734910-e17d9800-9d6e-11eb-8ef5-bbfed962d234.jpeg)
-![ssD](https://user-images.githubusercontent.com/81453793/114734946-e80c0f80-9d6e-11eb-9e81-771dde676f03.jpeg)
+![Screenshot (38)](https://user-images.githubusercontent.com/81453793/115029719-778cfc00-9ef0-11eb-865c-d3ed46831878.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/81453793/115029732-7b208300-9ef0-11eb-9749-5e85961edf75.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/81453793/115029738-7c51b000-9ef0-11eb-99c4-6fbdbf7f2dd5.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/81453793/115029746-7e1b7380-9ef0-11eb-9226-017d034aca59.png)
 
 
 
